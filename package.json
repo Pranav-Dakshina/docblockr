@@ -1,7 +1,7 @@
 {
   "name": "docblockr2",
   "main": "./lib/docblockr.js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A helper package for writing documentation",
   "repository": "https://github.com/Pranav-Dakshina/docblockr",
   "license": "MIT",
